@@ -1,0 +1,50 @@
+.App {
+  text-align: center;
+}
+
+/*styling for the current balance*/
+.heading {
+  background-color: rgb(32, 183, 112);
+  padding: 50px;
+  margin: 0;
+}
+
+/*styling for most of the page*/
+.body {
+  background-color: rgb(210, 248, 219);
+  padding: 50px;
+}
+
+/*styling for the horizontal rule*/
+.hr {
+  border: solid rgb(230, 229, 229) 3px;
+  margin: 0;
+  padding: 0;
+}
+
+/*styling for 3 buttons*/
+.button {
+  background-color: rgb(32, 183, 112);
+  border: solid rgb(32, 183, 112) 3px;
+  width: 100px;
+  height: 30px;
+  margin-left: 20px;
+  font-weight: bold;
+  color: white;
+}
+
+/*styling for the bigger buttons*/
+.bigger {
+  background-color: rgb(32, 183, 112);
+  border: solid rgb(32, 183, 112) 3px;
+  margin-top: 15px;
+  font-weight: bold;
+  color: white;
+}
+
+/*styling for the footer*/
+.footer {
+  background-color: rgb(230, 229, 229);
+  padding: 15px;
+  font-weight: 500;
+}
